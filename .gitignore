@@ -7,8 +7,4 @@
 *.iml
 out
 gen
-venv/include/
-venv/lib/python3.7/site-packages/beautifulsoup4-4.8.0.dist-info/
-venv/lib/python3.7/site-packages/bs4/
-venv/lib/python3.7/site-packages/soupsieve-1.9.4.dist-info/
-venv/lib/python3.7/site-packages/soupsieve/
+venv/
