@@ -25,3 +25,15 @@
 ### python pandas로 데이터 분석하기
 - 2000개의 검색결과중 가장 많이 등장하는 블로거 이름은?
 - 어떤 블로거에게 광고를 의뢰하면 노출이 많이될까?
+
+### 공공데이터 api 호출하기 - 부동산 실거래가
+- https://www.data.go.kr/dataset/3050988/openapi.do 
+- 김포시 법정동 코드 - 4157000000
+- 아파트 분양권전매 신고정보
+> 일반 인증키  
+> piLQMdjVMa9MniGNBO8EJ33uVdnBxExDigHFi3LHPYLlhu7JVrb2S7tbcS1cT7sfSR6yjcBo3OqIBplQskTXXg%3D%3D  
+> End Point  
+> http://openapi.molit.go.kr/OpenAPI_ToolInstallPackage/service/rest/RTMSOBJSvc
+
+#### api 사용 신청하기 - 사용신청 후 신청가능
+- 시크릿 발급받기
