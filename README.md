@@ -40,3 +40,10 @@
 
 #### 서브페이 데이터 수집하기
 - http://www.netd.ac.za/ 크롤링
+- https://www.ncbi.nlm.nih.gov
+
+#### 쿠팡에서 상품정보 수집하기 
+- url 분석하기
+- 1개의 url에 있는 60개 상품정보 수집하기
+- https://www.coupang.com/np/categories/186764?page=1
+- https://www.coupang.com/np/categories/186764?page=2
