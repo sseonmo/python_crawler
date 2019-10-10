@@ -1,0 +1,147 @@
+{
+	"response": {
+		"header": {
+			"resultCode": "00",
+			"resultMsg": "NORMAL SERVICE."
+		},
+		"body": {
+			"items": {
+				"item": [
+					{
+						"\uac70\ub798\uae08\uc561": "44,570",
+						"\ub144": "2019",
+						"\ub2e8\uc9c0": "\ud55c\uac15\uba54\ud2b8\ub85c\uc790\uc7741\ub2e8\uc9c0",
+						"\ubc95\uc815\ub3d9": "\uac78\ud3ec\ub3d9",
+						"\uc2dc\uad70\uad6c": "\uae40\ud3ec\uc2dc",
+						"\uc6d4": "10",
+						"\uc77c": "1",
+						"\uc804\uc6a9\uba74\uc801": "74.4083",
+						"\uc9c0\ubc88": "BL-C-1",
+						"\uc9c0\uc5ed\ucf54\ub4dc": "41570",
+						"\uce35": "38"
+					},
+					{
+						"\uac70\ub798\uae08\uc561": "43,386",
+						"\ub144": "2019",
+						"\ub2e8\uc9c0": "\ud55c\uac15\uba54\ud2b8\ub85c\uc790\uc7742\ub2e8\uc9c0",
+						"\ubc95\uc815\ub3d9": "\uac78\ud3ec\ub3d9",
+						"\uc2dc\uad70\uad6c": "\uae40\ud3ec\uc2dc",
+						"\uc6d4": "10",
+						"\uc77c": "3",
+						"\uc804\uc6a9\uba74\uc801": "84.4593",
+						"\uc9c0\ubc88": "BL-A-1",
+						"\uc9c0\uc5ed\ucf54\ub4dc": "41570",
+						"\uce35": "6"
+					},
+					{
+						"\uac70\ub798\uae08\uc561": "42,420",
+						"\ub144": "2019",
+						"\ub2e8\uc9c0": "\ud55c\uac15\uba54\ud2b8\ub85c\uc790\uc7742\ub2e8\uc9c0",
+						"\ubc95\uc815\ub3d9": "\uac78\ud3ec\ub3d9",
+						"\uc2dc\uad70\uad6c": "\uae40\ud3ec\uc2dc",
+						"\uc6d4": "10",
+						"\uc77c": "4",
+						"\uc804\uc6a9\uba74\uc801": "84.9692",
+						"\uc9c0\ubc88": "BL-A-1",
+						"\uc9c0\uc5ed\ucf54\ub4dc": "41570",
+						"\uce35": "2"
+					},
+					{
+						"\uac70\ub798\uae08\uc561": "39,040",
+						"\ub144": "2019",
+						"\ub2e8\uc9c0": "\uae40\ud3ec\ud55c\uac15 Ac-10\ube14\ub85d \ud638\ubc18\ubca0\ub974\ub514\uc6c0",
+						"\ubc95\uc815\ub3d9": "\uc7a5\uae30\ub3d9",
+						"\uc2dc\uad70\uad6c": "\uae40\ud3ec\uc2dc",
+						"\uc6d4": "10",
+						"\uc77c": "1",
+						"\uc804\uc6a9\uba74\uc801": "101.6237",
+						"\uc9c0\ubc88": "BL-Ac-10",
+						"\uc9c0\uc5ed\ucf54\ub4dc": "41570",
+						"\uce35": "1"
+					},
+					{
+						"\uac70\ub798\uae08\uc561": "39,470",
+						"\ub144": "2019",
+						"\ub2e8\uc9c0": "\ud55c\ud654\uc720\ub85c\uba54\ud2b8\ub85c",
+						"\ubc95\uc815\ub3d9": "\ud48d\ubb34\ub3d9",
+						"\uc2dc\uad70\uad6c": "\uae40\ud3ec\uc2dc",
+						"\uc6d4": "10",
+						"\uc77c": "2",
+						"\uc804\uc6a9\uba74\uc801": "84.967",
+						"\uc9c0\ubc88": "770",
+						"\uc9c0\uc5ed\ucf54\ub4dc": "41570",
+						"\uce35": "19"
+					},
+					{
+						"\uac70\ub798\uae08\uc561": "44,150",
+						"\ub144": "2019",
+						"\ub2e8\uc9c0": "\uae40\ud3ec\ud55c\uac15Cc-03 \uae08\uc131\ubc31\uc870\uad6c\ub798\uc5ed\uc608\ubbf8\uc9c0",
+						"\ubc95\uc815\ub3d9": "\uad6c\ub798\ub3d9",
+						"\uc2dc\uad70\uad6c": "\uae40\ud3ec\uc2dc",
+						"\uc6d4": "10",
+						"\uc77c": "2",
+						"\uc804\uc6a9\uba74\uc801": "78.9809",
+						"\uc9c0\ubc88": "BL-Cc-3",
+						"\uc9c0\uc5ed\ucf54\ub4dc": "41570",
+						"\uce35": "29"
+					},
+					{
+						"\uac70\ub798\uae08\uc561": "36,990",
+						"\ub144": "2019",
+						"\ub2e8\uc9c0": "\ud790\uc2a4\ud14c\uc774\ud2b8 \ub9ac\ubc84\uc2dc\ud2f0 1\ub2e8\uc9c0",
+						"\ubc95\uc815\ub3d9": "\uace0\ucd0c\uc74d \ud5a5\uc0b0\ub9ac",
+						"\uc2dc\uad70\uad6c": "\uae40\ud3ec\uc2dc",
+						"\uc6d4": "10",
+						"\uc77c": "2",
+						"\uc804\uc6a9\uba74\uc801": "68.9065",
+						"\uc9c0\ubc88": "BL-A1-1",
+						"\uc9c0\uc5ed\ucf54\ub4dc": "41570",
+						"\uce35": "8"
+					},
+					{
+						"\uac70\ub798\uae08\uc561": "44,710",
+						"\ub144": "2019",
+						"\ub2e8\uc9c0": "\uae40\ud3ec \uce90\uc2ac\uc564\ud30c\ubc00\ub9ac\uc5d0\uc2dc\ud2f0 1\ub2e8\uc9c0",
+						"\ubc95\uc815\ub3d9": "\uace0\ucd0c\uc74d \ud0dc\ub9ac",
+						"\uc2dc\uad70\uad6c": "\uae40\ud3ec\uc2dc",
+						"\uc6d4": "10",
+						"\uc77c": "1",
+						"\uc804\uc6a9\uba74\uc801": "84.9582",
+						"\uc9c0\ubc88": "BL-A1",
+						"\uc9c0\uc5ed\ucf54\ub4dc": "41570",
+						"\uce35": "9"
+					},
+					{
+						"\uac70\ub798\uae08\uc561": "44,820",
+						"\ub144": "2019",
+						"\ub2e8\uc9c0": "\uae40\ud3ec \uce90\uc2ac\uc564\ud30c\ubc00\ub9ac\uc5d0\uc2dc\ud2f0 1\ub2e8\uc9c0",
+						"\ubc95\uc815\ub3d9": "\uace0\ucd0c\uc74d \ud0dc\ub9ac",
+						"\uc2dc\uad70\uad6c": "\uae40\ud3ec\uc2dc",
+						"\uc6d4": "10",
+						"\uc77c": "2",
+						"\uc804\uc6a9\uba74\uc801": "84.9582",
+						"\uc9c0\ubc88": "BL-A1",
+						"\uc9c0\uc5ed\ucf54\ub4dc": "41570",
+						"\uce35": "5"
+					},
+					{
+						"\uac70\ub798\uae08\uc561": "22,455",
+						"\ub144": "2019",
+						"\ub2e8\uc9c0": "\uae40\ud3ec\ud55c\uac15 \uc0bc\uc815\uadf8\ub9b0\ucf54\uc544 \ub354\ubca0\uc2a4\ud2b8",
+						"\ubc95\uc815\ub3d9": "\uc591\ucd0c\uc74d \uc591\uace1\ub9ac",
+						"\uc2dc\uad70\uad6c": "\uae40\ud3ec\uc2dc",
+						"\uc6d4": "10",
+						"\uc77c": "2",
+						"\uc804\uc6a9\uba74\uc801": "52.2574",
+						"\uc9c0\ubc88": "1551",
+						"\uc9c0\uc5ed\ucf54\ub4dc": "41570",
+						"\uce35": "15"
+					}
+				]
+			},
+			"numOfRows": "10",
+			"pageNo": "1",
+			"totalCount": "10"
+		}
+	}
+}

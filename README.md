@@ -22,14 +22,19 @@
 - 모듈로 분리 한 후에 여러번 호출하기
 - 결과값 json으로 저장하기
 
-### python pandas로 데이터 분석하기
+### python pandas로 데이터 분석하기 
+- 블로그 참조 : https://doorbw.tistory.com/172
 - 2000개의 검색결과중 가장 많이 등장하는 블로거 이름은?
 - 어떤 블로거에게 광고를 의뢰하면 노출이 많이될까?
 
 데이터 분석
 1. 개수세기 - count
 1. 필터링 - 월기준
-
+1. 정렬하기 - 내림차순, 올림차순
+    > dfSorted = df.sort_values(['price']) - 기본 오름차순  
+    dfSorted = df.sort_values(['price'], ascending=0) - 내림차순
+1. 특정 키워드 포함된 데이터 뽑아내기
+    > result = df[df['name'].str.contains('페레로로쉐')]
 
 ### 공공데이터 api 호출하기 - 부동산 실거래가
 - https://www.data.go.kr/dataset/3050988/openapi.do 
@@ -52,3 +57,4 @@
 - 1개의 url에 있는 60개 상품정보 수집하기
 - https://www.coupang.com/np/categories/186764?page=1
 - https://www.coupang.com/np/categories/186764?page=2
+
