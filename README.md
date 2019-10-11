@@ -44,7 +44,7 @@
 > piLQMdjVMa9MniGNBO8EJ33uVdnBxExDigHFi3LHPYLlhu7JVrb2S7tbcS1cT7sfSR6yjcBo3OqIBplQskTXXg%3D%3D  
 > End Point  
 > http://openapi.molit.go.kr/OpenAPI_ToolInstallPackage/service/rest/RTMSOBJSvc
-
+\
 #### api 사용 신청하기 - 사용신청 후 신청가능
 - 시크릿 발급받기
 
@@ -58,3 +58,7 @@
 - https://www.coupang.com/np/categories/186764?page=1
 - https://www.coupang.com/np/categories/186764?page=2
 
+### 네이버 쇼핑 크롤
+- https://search.shopping.naver.com/search/all.nhn?origQuery=%EC%88%A8%EC%85%94%EB%B0%94%EC%9A%94&pagingIndex=2&pagingSize=40&viewType=list&sort=rel&frm=NVSHPAG&query=%EC%88%A8%EC%85%94%EB%B0%94%EC%9A%94
+- crawler(url로 문자열 받아오기)
+- parser(문자열에서 데이터 뽑기)
