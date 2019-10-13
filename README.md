@@ -62,3 +62,9 @@
 - https://search.shopping.naver.com/search/all.nhn?origQuery=%EC%88%A8%EC%85%94%EB%B0%94%EC%9A%94&pagingIndex=2&pagingSize=40&viewType=list&sort=rel&frm=NVSHPAG&query=%EC%88%A8%EC%85%94%EB%B0%94%EC%9A%94
 - crawler(url로 문자열 받아오기)
 - parser(문자열에서 데이터 뽑기)
+- json 파일로 저장하기 -  pandas 에서 불러오기 위해 json 으로 저장
+- pandas -> excel
+- json(dict 형태)
+- 네이버 쇼핑 여러 페이지에 상품가져오기
+    - 주소를 분석해야 한다.
+    - https://search.shopping.naver.com/search/all.nhn?query=%EC%97%90%EC%96%B4%EC%BB%A8&cat_id=&frm=NVSHATC
